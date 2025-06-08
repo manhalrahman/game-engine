@@ -12,4 +12,8 @@ public class GameResult {
     public boolean isOver() {
         return isOver;
     }
+
+    public String getWinner() {
+        return winner;
+    }
 }
